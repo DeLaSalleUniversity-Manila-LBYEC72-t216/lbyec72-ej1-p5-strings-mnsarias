@@ -1,1 +1,6 @@
-
+![](menu.PNG)
+![](view.PNG)
+![](string in database.PNG)
+![](string not in database.PNG)
+![](invalid.PNG)
+![](exit.PNG)
